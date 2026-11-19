@@ -1,6 +1,6 @@
 # DrewBot
 
-Bot that allows you to control your KineticHosting server through Discord.
+Multipurpose bot that allows you to interact with your server through slash commands.
 Actively maintained by @drewdoesdevelopment
 
 1. `npm install`
